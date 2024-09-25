@@ -1,0 +1,1253 @@
+[
+    {
+        "cropID": 100001,
+        "name": "All",
+        "level": 1,
+        "level1": 100001,
+        "level2": "null",
+        "level3": "null",
+        "level4": "null"
+    },
+    {
+        "cropID": 10001,
+        "name": "Agricultural",
+        "level": 2,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": "null",
+        "level4": "null"
+    },
+    {
+        "cropID": 1001,
+        "name": "Cereals",
+        "level": 3,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1001,
+        "level4": "null"
+    },
+    {
+        "cropID": 15,
+        "name": "Wheat",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1001,
+        "level4": 15
+    },
+    {
+        "cropID": 27,
+        "name": "Rice",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1001,
+        "level4": 27
+    },
+    {
+        "cropID": 44,
+        "name": "Barley",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1001,
+        "level4": 44
+    },
+    {
+        "cropID": 56,
+        "name": "Maize",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1001,
+        "level4": 56
+    },
+    {
+        "cropID": 71,
+        "name": "Rye",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1001,
+        "level4": 71
+    },
+    {
+        "cropID": 75,
+        "name": "Oats",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1001,
+        "level4": 75
+    },
+    {
+        "cropID": 79,
+        "name": "Millets",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1001,
+        "level4": 79
+    },
+    {
+        "cropID": 83,
+        "name": "Sorghum",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1001,
+        "level4": 83
+    },
+    {
+        "cropID": 89,
+        "name": "Buckwheat",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1001,
+        "level4": 89
+    },
+    {
+        "cropID": 97,
+        "name": "Triticale",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1001,
+        "level4": 97
+    },
+    {
+        "cropID": 103,
+        "name": "Mixed Cereals",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1001,
+        "level4": 103
+    },
+    {
+        "cropID": 108,
+        "name": "Other Cereals",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1001,
+        "level4": 108
+    },
+    {
+        "cropID": 1002,
+        "name": "Vegetables and Melons",
+        "level": 3,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": "null"
+    },
+    {
+        "cropID": 358,
+        "name": "Cabbages",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 358
+    },
+    {
+        "cropID": 366,
+        "name": "Artichokes",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 366
+    },
+    {
+        "cropID": 367,
+        "name": "Asparagus",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 367
+    },
+    {
+        "cropID": 372,
+        "name": "Lettuce",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 372
+    },
+    {
+        "cropID": 373,
+        "name": "Spinach",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 373
+    },
+    {
+        "cropID": 388,
+        "name": "Tomatoes",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 388
+    },
+    {
+        "cropID": 393,
+        "name": "Cauliflower",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 393
+    },
+    {
+        "cropID": 394,
+        "name": "Pumpkin, Squash and Gourds",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 394
+    },
+    {
+        "cropID": 397,
+        "name": "Cucumbers and Gherkins",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 397
+    },
+    {
+        "cropID": 399,
+        "name": "Eggplants (Aubergines)",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 399
+    },
+    {
+        "cropID": 401,
+        "name": "Chillies and Peppers, Green",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 401
+    },
+    {
+        "cropID": 402,
+        "name": "Onions and Shallots, Green",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 402
+    },
+    {
+        "cropID": 403,
+        "name": "Onions, Dry",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 403
+    },
+    {
+        "cropID": 406,
+        "name": "Garlic",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 406
+    },
+    {
+        "cropID": 414,
+        "name": "Beans, Green",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 414
+    },
+    {
+        "cropID": 417,
+        "name": "Peas, Green",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 417
+    },
+    {
+        "cropID": 423,
+        "name": "String Beans",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 423
+    },
+    {
+        "cropID": 426,
+        "name": "Carrots",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 426
+    },
+    {
+        "cropID": 430,
+        "name": "Okra",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 430
+    },
+    {
+        "cropID": 446,
+        "name": "Green Corn (Maize)",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 446
+    },
+    {
+        "cropID": 463,
+        "name": "Other Vegetables",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 463
+    },
+    {
+        "cropID": 567,
+        "name": "Watermelons",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 567
+    },
+    {
+        "cropID": 568,
+        "name": "Cantaloupes and Other Melons",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1002,
+        "level4": 568
+    },
+    {
+        "cropID": 1003,
+        "name": "Fruit and Nuts",
+        "level": 3,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": "null"
+    },
+    {
+        "cropID": 217,
+        "name": "Cashew Nuts",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 217
+    },
+    {
+        "cropID": 220,
+        "name": "Chestnuts",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 220
+    },
+    {
+        "cropID": 221,
+        "name": "Almonds",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 221
+    },
+    {
+        "cropID": 222,
+        "name": "Walnuts",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 222
+    },
+    {
+        "cropID": 223,
+        "name": "Pistachios",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 223
+    },
+    {
+        "cropID": 225,
+        "name": "Hazelnuts (Filberts)",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 225
+    },
+    {
+        "cropID": 234,
+        "name": "Other Nuts",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 234
+    },
+    {
+        "cropID": 486,
+        "name": "Bananas",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 486
+    },
+    {
+        "cropID": 489,
+        "name": "Plantains",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 489
+    },
+    {
+        "cropID": 490,
+        "name": "Oranges",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 490
+    },
+    {
+        "cropID": 495,
+        "name": "Tangarines, Mandarines and Clementines",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 495
+    },
+    {
+        "cropID": 497,
+        "name": "Lemons and Limes",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 497
+    },
+    {
+        "cropID": 507,
+        "name": "Grapefruit and Pomelos",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 507
+    },
+    {
+        "cropID": 512,
+        "name": "Other Citrus Fruit",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 512
+    },
+    {
+        "cropID": 515,
+        "name": "Apples",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 515
+    },
+    {
+        "cropID": 521,
+        "name": "Pears",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 521
+    },
+    {
+        "cropID": 526,
+        "name": "Apricots",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 526
+    },
+    {
+        "cropID": 530,
+        "name": "Sour Cherries",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 530
+    },
+    {
+        "cropID": 531,
+        "name": "Cherries",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 531
+    },
+    {
+        "cropID": 534,
+        "name": "Peaches and Nectarines",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 534
+    },
+    {
+        "cropID": 536,
+        "name": "Plums",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 536
+    },
+    {
+        "cropID": 541,
+        "name": "Other Stone Fruit",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 541
+    },
+    {
+        "cropID": 544,
+        "name": "Strawberries",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 544
+    },
+    {
+        "cropID": 547,
+        "name": "Raspberries",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 547
+    },
+    {
+        "cropID": 549,
+        "name": "Gooseberries",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 549
+    },
+    {
+        "cropID": 550,
+        "name": "Currants",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 550
+    },
+    {
+        "cropID": 552,
+        "name": "Blueberries",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 552
+    },
+    {
+        "cropID": 554,
+        "name": "Cranberries",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 554
+    },
+    {
+        "cropID": 558,
+        "name": "Other Berries",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 558
+    },
+    {
+        "cropID": 560,
+        "name": "Grapes",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 560
+    },
+    {
+        "cropID": 569,
+        "name": "Figs",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 569
+    },
+    {
+        "cropID": 571,
+        "name": "Mangoes",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 571
+    },
+    {
+        "cropID": 572,
+        "name": "Avocados",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 572
+    },
+    {
+        "cropID": 574,
+        "name": "Pineapples",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 574
+    },
+    {
+        "cropID": 577,
+        "name": "Dates",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 577
+    },
+    {
+        "cropID": 592,
+        "name": "Kiwi Fruit",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 592
+    },
+    {
+        "cropID": 600,
+        "name": "Papayas",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 600
+    },
+    {
+        "cropID": 603,
+        "name": "Other Tropical Fruit",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 603
+    },
+    {
+        "cropID": 619,
+        "name": "Other Fruit",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1003,
+        "level4": 619
+    },
+    {
+        "cropID": 1004,
+        "name": "Oilseed Crops",
+        "level": 3,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": "null"
+    },
+    {
+        "cropID": 236,
+        "name": "Soya Beans",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 236
+    },
+    {
+        "cropID": 242,
+        "name": "Groundnuts",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 242
+    },
+    {
+        "cropID": 249,
+        "name": "Coconuts",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 249
+    },
+    {
+        "cropID": 254,
+        "name": "Oil Palm Fruit",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 254
+    },
+    {
+        "cropID": 260,
+        "name": "Olives",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 260
+    },
+    {
+        "cropID": 265,
+        "name": "Castor Beans",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 265
+    },
+    {
+        "cropID": 267,
+        "name": "Sunflower Seed",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 267
+    },
+    {
+        "cropID": 270,
+        "name": "Rapeseed",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 270
+    },
+    {
+        "cropID": 280,
+        "name": "Safflower Seed",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 280
+    },
+    {
+        "cropID": 289,
+        "name": "Sesame Seed",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 289
+    },
+    {
+        "cropID": 292,
+        "name": "Mustard Seed",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 292
+    },
+    {
+        "cropID": 299,
+        "name": "Melonseed",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 299
+    },
+    {
+        "cropID": 333,
+        "name": "Linseed",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 333
+    },
+    {
+        "cropID": 339,
+        "name": "Other Oilseed Crops",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1004,
+        "level4": 339
+    },
+    {
+        "cropID": 1005,
+        "name": "Root and Tuber Staple Crops",
+        "level": 3,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1005,
+        "level4": "null"
+    },
+    {
+        "cropID": 116,
+        "name": "Potatoes",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1005,
+        "level4": 116
+    },
+    {
+        "cropID": 122,
+        "name": "Sweet Potatoes",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1005,
+        "level4": 122
+    },
+    {
+        "cropID": 125,
+        "name": "Cassava",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1005,
+        "level4": 125
+    },
+    {
+        "cropID": 136,
+        "name": "Taro (Coco Yam)",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1005,
+        "level4": 136
+    },
+    {
+        "cropID": 137,
+        "name": "Yams",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1005,
+        "level4": 137
+    },
+    {
+        "cropID": 149,
+        "name": "Other Roots and Tubers",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1005,
+        "level4": 149
+    },
+    {
+        "cropID": 1006,
+        "name": "Beverage and Spice Crops",
+        "level": 3,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1006,
+        "level4": "null"
+    },
+    {
+        "cropID": 656,
+        "name": "Coffee",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1006,
+        "level4": 656
+    },
+    {
+        "cropID": 661,
+        "name": "Cocoa",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1006,
+        "level4": 661
+    },
+    {
+        "cropID": 667,
+        "name": "Tea",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1006,
+        "level4": 667
+    },
+    {
+        "cropID": 677,
+        "name": "Hops",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1006,
+        "level4": 677
+    },
+    {
+        "cropID": 687,
+        "name": "Black, White and Long Pepper",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1006,
+        "level4": 687
+    },
+    {
+        "cropID": 689,
+        "name": "Chillies and Peppers, Dry",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1006,
+        "level4": 689
+    },
+    {
+        "cropID": 692,
+        "name": "Vanilla",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1006,
+        "level4": 692
+    },
+    {
+        "cropID": 702,
+        "name": "Nutmeg, Mace and Cardamoms",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1006,
+        "level4": 702
+    },
+    {
+        "cropID": 711,
+        "name": "Anise, Badian and Fennel",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1006,
+        "level4": 711
+    },
+    {
+        "cropID": 720,
+        "name": "Ginger",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1006,
+        "level4": 720
+    },
+    {
+        "cropID": 723,
+        "name": "Other Spices",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1006,
+        "level4": 723
+    },
+    {
+        "cropID": 1007,
+        "name": "Leguminous Crops",
+        "level": 3,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1007,
+        "level4": "null"
+    },
+    {
+        "cropID": 176,
+        "name": "Beans, Dry",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1007,
+        "level4": 176
+    },
+    {
+        "cropID": 181,
+        "name": "Broad Beans",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1007,
+        "level4": 181
+    },
+    {
+        "cropID": 187,
+        "name": "Peas, Dry",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1007,
+        "level4": 187
+    },
+    {
+        "cropID": 191,
+        "name": "Chick Peas",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1007,
+        "level4": 191
+    },
+    {
+        "cropID": 195,
+        "name": "Cow Peas",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1007,
+        "level4": 195
+    },
+    {
+        "cropID": 197,
+        "name": "Pigeon Peas",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1007,
+        "level4": 197
+    },
+    {
+        "cropID": 201,
+        "name": "Lentils",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1007,
+        "level4": 201
+    },
+    {
+        "cropID": 205,
+        "name": "Vetches",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1007,
+        "level4": 205
+    },
+    {
+        "cropID": 210,
+        "name": "Lupins",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1007,
+        "level4": 210
+    },
+    {
+        "cropID": 211,
+        "name": "Other Leguminous Crops (Pulses)",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1007,
+        "level4": 211
+    },
+    {
+        "cropID": 1008,
+        "name": "Sugar Crops",
+        "level": 3,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1008,
+        "level4": "null"
+    },
+    {
+        "cropID": 156,
+        "name": "Sugar Cane",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1008,
+        "level4": 156
+    },
+    {
+        "cropID": 157,
+        "name": "Sugar Beet",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1008,
+        "level4": 157
+    },
+    {
+        "cropID": 1009,
+        "name": "Fodder Crops",
+        "level": 3,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1009,
+        "level4": "null"
+    },
+    {
+        "cropID": 1010,
+        "name": "Non-Food Crops",
+        "level": 3,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1010,
+        "level4": "null"
+    },
+    {
+        "cropID": 328,
+        "name": "Cotton",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1010,
+        "level4": 328
+    },
+    {
+        "cropID": 773,
+        "name": "Flax",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1010,
+        "level4": 773
+    },
+    {
+        "cropID": 780,
+        "name": "Jute",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1010,
+        "level4": 780
+    },
+    {
+        "cropID": 782,
+        "name": "Jute-Like Fibres",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1010,
+        "level4": 782
+    },
+    {
+        "cropID": 789,
+        "name": "Sisal",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1010,
+        "level4": 789
+    },
+    {
+        "cropID": 821,
+        "name": "Other Fibre Crops",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1010,
+        "level4": 821
+    },
+    {
+        "cropID": 826,
+        "name": "Tobacco",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1010,
+        "level4": 826
+    },
+    {
+        "cropID": 836,
+        "name": "Rubber",
+        "level": 4,
+        "level1": 100001,
+        "level2": 10001,
+        "level3": 1010,
+        "level4": 836
+    },
+    {
+        "cropID": 10002,
+        "name": "Industrial",
+        "level": 2,
+        "level1": 100001,
+        "level2": 10002,
+        "level3": "null",
+        "level4": "null"
+    },
+    {
+        "cropID": 10003,
+        "name": "Domestic",
+        "level": 2,
+        "level1": 100001,
+        "level2": 10003,
+        "level3": "null",
+        "level4": "null"
+    }
+]
